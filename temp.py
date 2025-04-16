@@ -9,7 +9,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 
 # --- Setup ---
-folder_path = r"C:\Users\jamyd\Desktop\temps\neodc\esacci\land_surface_temperature\data\SSMI_SSMIS\L3C\v2.33\yearly"
+folder_path = "Data/temps/neodc/esacci/land_surface_temperature/data/SSMI_SSMIS/L3C/v2.33/yearly"
 date_file_map = {}
 
 # --- Extract year → filename mapping ---
